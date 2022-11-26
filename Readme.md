@@ -1,4 +1,4 @@
-This is a solver to generate valid solutions for friendlycaptcha Challenges.
+This is a solver to generate valid solutions for friendlycaptcha Challenges with Python.
 
 Usage:
 ```python
